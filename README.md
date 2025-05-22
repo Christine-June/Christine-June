@@ -1,4 +1,3 @@
-<!-- 🔥 Custom Banner GIF (Faith + Tech Theme) -->
 <p align="center">
   <img src="assets/christine-june-banner.gif" width="100%" alt="Christine June | Faith + Tech Banner">
 </p>
@@ -13,10 +12,9 @@
 
 ---
 
-### 💻 Whoami
+### 💻 Who is Christine
 
-```bash
-> whoami
+> Well,
 I’m Christine June — a purpose-driven Full Stack Developer in training.
 I build sleek UIs and expressive backends while vibing to faith, focus, and finesse.
 ⚡ Fun Facts
@@ -55,4 +53,4 @@ Back-End + Tools
 "Be faithful with little. Build with what you have. Grow with grace."
 — Christine June
 
-<p align="center"> <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="280px"> </p> ```
+<p align="center"> <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="280px"> </p> 
