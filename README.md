@@ -49,8 +49,8 @@ Back-End + Tools
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=christine-june&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=christine-june&theme=tokyonight" /> </p>
 🤝 Connect With Me
 <p align="center"> <a href="https://linkedin.com/in/your-link" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/> </a> <a href="mailto:your@email.com"> <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/> </a> </p>
-🧠 Quote I Live By
-"Be faithful with little. Build with what you have. Grow with grace."
+🧠 Verse I Live By
+"Romans 8;28"
 — Christine June
 
-<p align="center"> <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="280px"> </p> 
+<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lseWFjMmZweG4zYWJ4YjYxNmNocXh2cXNtN2Z6ZGwwcm10bm5pcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/J1vPO6t5q4lSQW7oFm/giphy.gif" width="280px"> </p> 
