@@ -8,7 +8,7 @@
 <!-- Typing SVG Animation -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=20&duration=5000&pause=1000&color=000000FF&background=FF82BFFF&center=true&vCenter=true&width=435&height=50&repeat=true&multiline=true&lines=Faith%20%F0%9F%99%8F%2C%20Tech%20%F0%9F%92%BB%20and%20Good%20Vibes%20%E2%9C%A8%3BTaking%20my%20coding%20to%20the%20next%20level%20%F0%9F%9A%80%3BGod%20with%20me%2C%20a%20step%20at%20a%20time%20%F0%9F%91%A3%E2%9C%9D%E2%9C%8F"
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=000000&background=FF82BF&center=true&vCenter=true&width=435&lines=Faith+%F0%9F%99%8F%2C+Tech+%F0%9F%92%BB%2C+and+Good+Vibes+%E2%9C%A8;Taking+my+coding+to+the+next+level+%F0%9F%9A%80;God+with+me%2C+a+step+at+a+time+%F0%9F%91%A3%E2%9C%9D%EF%B8%8F"
     alt="Typing SVG Animation"
   />
 </p>
