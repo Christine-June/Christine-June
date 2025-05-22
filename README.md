@@ -5,10 +5,13 @@
 <h1 align="center">Welcome to <span style="color:#FF69B4">Christine's Github</span></h1>
 <h3 align="center">🚀 Full Stack Developer | Python + React Dev | Tech School Student</h3>
 
+<!-- Typing SVG Animation -->
 <p align="center">
-  ![Typing SVG Animation](https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=20&duration=5000&pause=1000&color=000000FF&background=FF82BFFF&center=true&vCenter=true&width=435&height=50&repeat=true&multiline=true&lines=Faith%20%F0%9F%99%8F%2C%20Tech%20%F0%9F%92%BB%20and%20Good%20Vibes%20%E2%9C%A8%3BTaking%20my%20coding%20to%20the%20next%20level%20%F0%9F%9A%80%3BGod%20with%20me%2C%20a%20step%20at%20a%20time%20%F0%9F%91%A3%E2%9C%9D%E2%9C%8F)
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=20&duration=5000&pause=1000&color=000000FF&background=FF82BFFF&center=true&vCenter=true&width=435&height=50&repeat=true&multiline=true&lines=Faith%20%F0%9F%99%8F%2C%20Tech%20%F0%9F%92%BB%20and%20Good%20Vibes%20%E2%9C%A8%3BTaking%20my%20coding%20to%20the%20next%20level%20%F0%9F%9A%80%3BGod%20with%20me%2C%20a%20step%20at%20a%20time%20%F0%9F%91%A3%E2%9C%9D%E2%9C%8F"
+    alt="Typing SVG Animation"
+  />
 </p>
-
 
 ---
 
