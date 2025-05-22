@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="Assets/christine-june-banner.gif" width="100%" alt="Christine June | Faith + Tech Banner">
+  <img src="Assets/christine-june-banner.gif" width="100%" alt="Christine June | Faith + Tech Banner" />
 </p>
 
-<h1 align="center">Hey, I'm <span style="color:#FF69B4">Christine June</span></h1>
+<h1 align="center">Welcome to <span style="color:#FF69B4">Christine's Github</span></h1>
 <h3 align="center">🚀 Full Stack Developer | Python + React Dev | Tech School Student</h3>
 
-<!-- ⌨️ Typing SVG Animation -->
+<!-- Typing SVG Animation -->
 <p align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=000000&background=FF82BF&center=true&vCenter=true&width=435&lines=Faith+%F0%9F%99%8F%2C+Tech+%F0%9F%92%BB%2C+and+Good+Vibes+%E2%9C%A8;Taking+my+coding+to+the+next+level+%F0%9F%9A%80;God+with+me%2C+a+step+at+a+time+%F0%9F%91%A3%E2%9C%9D%EF%B8%8F)](https://git.io/typing-svg)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=20&duration=5000&pause=1000&color=000000FF&background=FF82BFFF&center=true&vCenter=true&width=435&height=50&repeat=true&multiline=true&lines=Faith+🙏,+Tech+💻+and+Good+Vibes+✨;Taking+my+coding+to+the+next+level+🚀;God+with+me,+a+step+at+a+time+👣✝️" alt="Typing SVG Animation" />
 </p>
 
 ---
